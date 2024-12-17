@@ -58,7 +58,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto:reachout.suman@gmail.com",
                 "altText": ""
             },
             {
@@ -79,7 +79,7 @@
             "title": "Contact details",
             "phoneNumber": "850-123-5021",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "reachout.suman@gmail.com",
             "emailAltText": "My email",
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "My address"
